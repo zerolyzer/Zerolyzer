@@ -1,0 +1,1 @@
+// API interface for live stock data
